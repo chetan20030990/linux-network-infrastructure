@@ -980,7 +980,7 @@ dd if=/dev/zero of=/mnt/nfs/common/testfile bs=1M count=1000
 ### 🤝 Connect for Infrastructure Discussion
 
 **Chetan Pavan Sai Nannapaneni**  
-*Linux Infrastructure & Security Specialist*
+*Linux Infrastructure & Security *
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chetannannapaneni/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:nannapaneni.che@northeastern.edu)
