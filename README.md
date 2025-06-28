@@ -852,26 +852,6 @@ dd if=/dev/zero of=/mnt/nfs/common/testfile bs=1M count=1000
 ├── 📄 README.md (This comprehensive documentation)
 ├── 📁 documentation/
 │   └── 📄 linux-network-project-report.pdf (Detailed team project report)
-├── 📁 configurations/
-│   ├── 📄 bind9-dns-config.conf (DNS server configuration)
-│   ├── 📄 dhcp-server-config.conf (DHCP service setup)
-│   ├── 📄 apache-webserver-config.conf (Web server configuration)
-│   ├── 📄 ufw-firewall-rules.conf (Security rules)
-│   └── 📄 nfs-exports-config.conf (File sharing setup)
-├── 📁 scripts/
-│   ├── 🐍 backup-automation.sh (My automated backup system)
-│   ├── 🐍 nfs-setup.sh (Network file system configuration)
-│   ├── 🐍 mitm-security-test.py (Security testing tool)
-│   ├── 🐍 system-monitoring.sh (Performance monitoring)
-│   └── 🐍 security-hardening.sh (System security enhancement)
-├── 📁 monitoring/
-│   ├── 📄 performance-metrics.md (System performance data)
-│   ├── 📄 security-audit-log.md (Security event analysis)
-│   └── 📄 service-health-check.md (Service status monitoring)
-└── 📁 testing/
-    ├── 📄 load-testing-results.md (Performance testing outcomes)
-    ├── 📄 security-testing-report.md (Vulnerability assessment)
-    └── 📄 integration-testing.md (End-to-end testing results)
 ```
 
 ### 📋 Repository Contents Overview
